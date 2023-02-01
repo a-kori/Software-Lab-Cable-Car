@@ -1,6 +1,6 @@
 # Software Lab Cable Car project
 
-Trigger warning: bright flashing lights are used in the game's lobby scene!
+**Trigger warning: bright flashing lights are used in the game's lobby scene!**
 
 ## About
 
