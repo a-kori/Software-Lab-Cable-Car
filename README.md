@@ -1,4 +1,4 @@
-# Software Lab Cable Car project
+# Software Lab Cable Car Project
 
 **Trigger warning: bright flashing lights are used in the game's lobby scene!**
 
