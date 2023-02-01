@@ -9,20 +9,20 @@
 📋 My responsibilities included group meeting organization, quality and time management control, planning and progress presentation. Furthermore, my role in this project involved developing an AI that human players can compete against in the game. I chose the Monte Carlo tree search algorithm for the implementation.
 
 🏋️‍♀️ The project is supposed to train:
-• programming skills and software engineering methods, especially the application-specific use of the acquired knowledge,
-• development of software according to a developed model,
-• use of an IDE with phase-specific tools,
-• analysis of project requirements and project architecture design,
-• peer code review,
-• quick learning and adaptation to previously unused technologies and tools.
+* programming skills and software engineering methods, especially the application-specific use of the acquired knowledge,
+* development of software according to a developed model,
+* use of an IDE with phase-specific tools,
+* analysis of project requirements and project architecture design,
+* peer code review,
+* quick learning and adaptation to previously unused technologies and tools.
 
 🔧 Tools used in the project:
-• Kotlin
-• Java Development Kit
-• IntelliJ IDEA
-• GitLab
-• Astah Professional
-• BoardGameWork and BoardGameWork NET frameworks
+* Kotlin
+* Java Development Kit
+* IntelliJ IDEA
+* GitLab
+* Astah Professional
+* BoardGameWork and BoardGameWork NET frameworks
 
 This is the final project of TU Dortmund's Software Lab.
 
